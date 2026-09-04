@@ -1,0 +1,14 @@
+{
+  "name": "Lundby — A city, shaped by you",
+  "short_name": "Lundby",
+  "description": "An original 3D city-building simulation with a living economy, transport, resources, and civic life.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b3026",
+  "theme_color": "#20382b",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
