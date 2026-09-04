@@ -151,15 +151,3 @@ screenshots/             Screenshot placeholders (see Screenshots above)
   executed.
 - The app registers a service worker for offline play, but the worker file (`sw.js`)
   is not included in this copy — keep the local server running while you play.
-- The bundle was re-branded end-to-end as Lundby — UI text, save keys, file
-  format, and in-world signage — and the app icons were redrawn to match.
-
-## Origin & credits
-
-Built by *Astra* (OpenAI's GPT-6 agent), which worked on it for roughly five days
-and designed each asset individually, and featured in Matthew Berman's Astra review
-on Forward Future Signals (September 2026). This copy was downloaded from the review
-site, re-branded as Lundby, and lightly repaired (encoding fixes, redrawn icons).
-
-All game code and assets belong to their original authors; this repository is a local,
-modified copy made for personal use.
