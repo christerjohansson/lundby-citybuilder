@@ -10,20 +10,26 @@ dependency to install — any web server will do.
 
 ## Screenshots
 
-> **TODO:** capture these from the game and save them into the `screenshots/` folder,
-> replacing the placeholder filenames below.
-
-<!-- 1. Screenshot: title / scenario selection screen -->
-![Lundby title and scenario selection screen](screenshots/01-title-screen.png)
+![Lundby title and scenario selection screen](screenshots/startscreen.png)
 *The title screen: choose a blank map, take over Lundby Bay, or play one of three timed challenges.*
 
-<!-- 2. Screenshot: mid-game city overview with roads, zones, and services visible -->
-![A mid-game city viewed from above](screenshots/02-city-overview.png)
-*A growing city: zoning, transit, power, and services at street level.*
+![Starting a new game](screenshots/1.png)
+*Starting a new game: pick a start, terrain, and difficulty to shape your run.*
 
-<!-- 3. Screenshot: a management panel such as the budget, council, or tax screen -->
-![The city management interface](screenshots/03-city-management.png)
-*Running the city: treasury, taxes, council departments, and regional policy.*
+![A mid-game city viewed from above](screenshots/2.png)
+*A growing city from above: zoning, transit, power, and services all visible.*
+
+![The city seen from the free camera](screenshots/City-View.png)
+*The free camera (pan / rotate / zoom) over a living city.*
+
+![Street level](screenshots/3-Streetview.png)
+*Street level: live traffic, day-night lighting, and the everyday life of the city.*
+
+![Photo mode](screenshots/4-Photo%20mode.png)
+*Photo mode: frame and capture your own postcards of the city.*
+
+![The region beyond your city](screenshots/5-Beyond%20your%20city.png)
+*Beyond your city: the region and its neighbors — Cedar Hollow, Eastbank, and Silver Coast.*
 
 ## Features
 
@@ -141,7 +147,7 @@ manifest.webmanifest     PWA manifest (installable as an app)
 assets/                  The game: one minified JS bundle + one stylesheet
 readable/                De-minified, human-readable copy of the bundle (reference only —
                          the game loads the file in assets/)
-screenshots/             Screenshot placeholders (see Screenshots above)
+screenshots/             In-game screenshots (see Screenshots above)
 ```
 
 ## Tech notes
